@@ -1,0 +1,31 @@
+{
+  "name": "api-playground",
+  "version": "1.0.0",
+  "description": "a playground to try out apis",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "connect-ensure-login": "^0.1.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "mongoose": "^5.9.24",
+    "passport": "^0.4.1",
+    "passport-local-mongoose": "^6.0.1",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dannylee8/api-playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dannylee8/api-playground/issues"
+  },
+  "homepage": "https://github.com/dannylee8/api-playground#readme"
+}
